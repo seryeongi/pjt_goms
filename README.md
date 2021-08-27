@@ -2,6 +2,6 @@
 Prediction employment area project
 --update
 * recommend course
-* user icon
+* add user icon(logining)
 * delete separately
 * etc
