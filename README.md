@@ -1,7 +1,7 @@
 # Prediction Employment Server
-Prediction Employment Server using LGBM.
-Build a webserver and db
-User's Server result as below:
+Prediction Employment Server using LGBM.  
+Build a webserver and db  
+User's Server result as below:  
 
 ## Dependencies
 * Python 3
@@ -15,7 +15,7 @@ User's Server result as below:
 * LGBM Classifier
 * scikit-learn
 
---update
+--update  
 * recommend course
 * change figures(tableau)
 * add user icon(logining)
