@@ -9,7 +9,7 @@ User's Server result as below:
 * Jquery
 * Css
 * Html
-* Mariadb
+* MariaDB
 * numpy
 * pandas
 * LGBM Classifier
