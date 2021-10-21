@@ -15,4 +15,4 @@ User's Server result as below:
 * LGBM Classifier
 * scikit-learn
 
-![goms_result](https://user-images.githubusercontent.com/77309856/138270744-50c2e14a-bf70-4053-aaa3-0d0dc20dc2ed.GIF)
+![goms_result](https://user-images.githubusercontent.com/77309856/138271081-a9e5f938-fd9f-4c32-aab5-de1cd7b2cff9.GIF)
