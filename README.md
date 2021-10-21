@@ -15,9 +15,4 @@ User's Server result as below:
 * LGBM Classifier
 * scikit-learn
 
---update  
-* recommend course
-* change figures(tableau)
-* add user icon(logining)
-* delete separately
-* etc
+![goms_result](https://user-images.githubusercontent.com/77309856/138270744-50c2e14a-bf70-4053-aaa3-0d0dc20dc2ed.GIF)
